@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app-samurai/static/css/main.2584b8dc.css",
+    "main.js": "/react-app-samurai/static/js/main.376c22d3.js",
+    "static/js/453.de55145c.chunk.js": "/react-app-samurai/static/js/453.de55145c.chunk.js",
+    "static/js/466.ac091af4.chunk.js": "/react-app-samurai/static/js/466.ac091af4.chunk.js",
+    "static/js/578.4418ee82.chunk.js": "/react-app-samurai/static/js/578.4418ee82.chunk.js",
+    "static/js/854.0153ab6d.chunk.js": "/react-app-samurai/static/js/854.0153ab6d.chunk.js",
+    "static/media/loading.gif": "/react-app-samurai/static/media/loading.157f21ba14e244e811d6.gif",
+    "index.html": "/react-app-samurai/index.html",
+    "main.2584b8dc.css.map": "/react-app-samurai/static/css/main.2584b8dc.css.map",
+    "main.376c22d3.js.map": "/react-app-samurai/static/js/main.376c22d3.js.map",
+    "453.de55145c.chunk.js.map": "/react-app-samurai/static/js/453.de55145c.chunk.js.map",
+    "466.ac091af4.chunk.js.map": "/react-app-samurai/static/js/466.ac091af4.chunk.js.map",
+    "578.4418ee82.chunk.js.map": "/react-app-samurai/static/js/578.4418ee82.chunk.js.map",
+    "854.0153ab6d.chunk.js.map": "/react-app-samurai/static/js/854.0153ab6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2584b8dc.css",
+    "static/js/main.376c22d3.js"
+  ]
+}
